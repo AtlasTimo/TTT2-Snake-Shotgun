@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "snake_gun/snake_gun_mats/texture"
+	"$bumpmap" "snake_gun/snake_gun_mats/normal"
+}
